@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(87, 42, 42);
+}
+
+header {
+    color: aqua;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+footer {
+    color: rgb(255, 0, 204);
+    font-size: x-large;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+img {
+    height: 800px;
+}
